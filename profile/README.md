@@ -24,7 +24,7 @@
 
 ## 🖼 Preview Screenshots
 
-![Hotspot Shield Main UI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFCUI1YqGT-XDWPZDqwNP3w2VOYc-g7Dftg&s)  
+![Hotspot Shield Main UI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwlaG49wJA5Vnrdwi6DQAipgMBnMhcNXiqA&s)  
 *Connection dashboard with server location display*
 
 ---
